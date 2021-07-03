@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyAppSample</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string name="CodePushPublicKey">-----BEGIN PUBLIC KEY-----
+        MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApHV14trCaYFzfjA3PdPs
+        xmLsK6tMWyEquZujHpI/A6YFDHSqO0TNz/EPDUQDwrCW3lKVW/n7Nqqkg00wJgDv
+        BhTO5QtrTJt9AprsZeyr55aiV7b5J2zo7F3/c7HDjpLchQXNRW9soz0wV3+6Cyh1
+        U6YxNe1d09rXfazPEjntZf4F1709KNVn6YUeF0L2dVRAllcW96Tdji5JHPMUUq4X
+        nlsemFDheAHsEQoPJ0ymedUcKSrH1E9CAx2xtgCvq/kmnEXjfAUIt83IruQ5AGif
+        8STm0Y7dMxGIJ71JY4kptZEbieET/0gYzveF+4npwihqFSp5Bb3ujKmerh1BkaUE
+        cwIDAQAB
+        -----END PUBLIC KEY-----</string>
+</resources>
